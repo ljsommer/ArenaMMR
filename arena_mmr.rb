@@ -56,7 +56,7 @@ class Team
     attr_accessor :rating
 end
 
-dealy        = Character.new("Dealy", "Nerzhul")
+matt_moats   = Character.new("Dealy", "Nerzhul")
 defdef       = Character.new("Defdef", "Nerzhul")
 defghanistan = Character.new("Defghanistan", "Nerzhul")
 larsadin     = Character.new("Larsadin", "Nerzhul")
